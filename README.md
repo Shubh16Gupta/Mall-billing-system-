@@ -49,7 +49,7 @@ This project demonstrates **file handling, modular programming, and basic user i
 ---
 
 ## Project Structure
-<img src="screenshots/Screenshot 2025-11-22 at 17.18.52.png" alt="Bill Screenshot"
+<img src="Screenshot 2025-11-22 at 17.18.52.png" alt="Bill Screenshot"
 width="500"/>
 
 
@@ -92,11 +92,11 @@ width="500"/>
 ## Sample Output
 
 **Owner – Show Inventory**  
-<img src="screenshots/inventory check.png" alt="show Inventory"
+<img src="inventory check.png" alt="show Inventory"
 width="500"/>
 
 **Customer – Generate Bill**  
-<img src="screenshots/billing.png" alt="Billing"
+<img src="billing.png" alt="Billing"
 width="500"/>
 
 ---
